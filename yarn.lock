@@ -607,6 +607,11 @@ chardet@^0.7.0:
   resolved "https://registry.npmjs.org/chardet/-/chardet-0.7.0.tgz"
   integrity sha512-mT8iDcrh03qDGRRmoA2hmBJnxpllMR+0/0qlzjqZES6NdiWDcZkCNAk4rPFZ9Q85r27unkiNNg8ZOiwZXBHwcA==
 
+classnames@^2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.3.2.tgz#351d813bf0137fcc6a76a16b88208d2560a0d924"
+  integrity sha512-CSbhY4cFEJRe6/GQzIk5qXZ4Jeg5pcsP7b5peFSDpffpe1cqjASH/n9UTjBwOp6XpMSTwQ8Za2K5V02ueA7Tmw==
+
 cli-cursor@^3.1.0:
   version "3.1.0"
   resolved "https://registry.npmjs.org/cli-cursor/-/cli-cursor-3.1.0.tgz"
@@ -853,13 +858,6 @@ emoji-regex@^9.2.2:
   version "9.2.2"
   resolved "https://registry.npmjs.org/emoji-regex/-/emoji-regex-9.2.2.tgz"
   integrity sha512-L18DaJsXSUk2+42pv8mLs5jJT2hqFkFE4j21wOmgbUqsZ2hL72NsUU785g9RXgo3s0ZNgVl42TiHp3ZtOv/Vyg==
-
-emojis-categorised@^1.0.0, emojis-categorised@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/emojis-categorised/-/emojis-categorised-1.0.1.tgz"
-  integrity sha512-YuuJ4XQ+pVDpG6OccK5pdO80UT6CGXCB11cfZIdgJNTiQrP4NXh6NbpXiOiHOzbqWLjeL3Ak4liBoefS/7N/JQ==
-  dependencies:
-    emojis-categorised "^1.0.0"
 
 enhanced-resolve@^5.10.0:
   version "5.12.0"
