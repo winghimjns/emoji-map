@@ -3,7 +3,6 @@ import emojis from '@/emojis';
 import styles from '@/styles/Home.module.css';
 import React, { ChangeEventHandler, MouseEventHandler, useCallback, useRef, useState } from 'react';
 import Tooltip from '@/components/Tooltip';
-import { Head } from 'next/document';
 
 const categories = [
   "Smileys & People",
