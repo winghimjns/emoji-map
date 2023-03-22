@@ -47,6 +47,7 @@ body {
   background-color: black;
   transform: translateX(-50%);
   color: white;
+  text-align: center;
   white-space: no-wrap;
   opacity: .7;
 }
