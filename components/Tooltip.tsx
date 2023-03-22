@@ -16,8 +16,8 @@ export default function Tooltip (props: Props) {
 
   useEffect(() => {
     function onMouseMove (event: MouseEvent) {
-      const {x, y} = event;
-      setPosition({x, y});
+      const {pageX, pageY} = event;
+      setPosition({x: pageX, y: pageY});
     }
 
     function onMouseLeave (event: MouseEvent) {
